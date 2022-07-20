@@ -14,12 +14,14 @@ const About = () => {
             </div>
              <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                  <div className='sm:text-right text-4xl font-bold'>
-                     <p>Hi. I am Kylie. Nice to meet you. Please take a look around.</p>
+                     <p>Hi. I'm Kylie. I am not your average developer.</p>
                  </div>
             <div>
                <p>
-                 I have spent the past 15 years as a music educator. During the pandemic shut-down, teaching quickly shifted and became remote. After that, I became interested in technology, and wanted to learn more about how to create beautiful, interactive web pages.    
+                 I have spent the past 15 years as a music educator. During the pandemic, I was expected to quickly pivot all of my classroom lessons to a 100% remote learning style. After that, I became incredibly interested in technology, and wanted to learn more about how to create beautiful, interactive web pages.    
                </p>
+               <br>
+               </br>
                <p>
                I am a recent Full-Stack Web Development Bootcamp graduate from The Ohio State University.
                </p>
