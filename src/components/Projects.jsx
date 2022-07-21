@@ -29,10 +29,10 @@ const Projects = () => {
                             HTML/CSS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://kylieogg.github.io/run-buddy/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/kylieogg/run-buddy" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Repository</button>
                             </a>
                         </div>
@@ -50,10 +50,10 @@ const Projects = () => {
                             JavaScript Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://kylieogg.github.io/password-generator/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/kylieogg/password-generator" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Repository</button>
                             </a>
                         </div>
@@ -71,10 +71,10 @@ const Projects = () => {
                             JavaScript/HTML/CSS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://katensullivan55.github.io/peruse/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/kylieogg/peruse" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Repository</button>
                             </a>
                         </div>
@@ -92,10 +92,10 @@ const Projects = () => {
                             React JS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://kylieogg.github.io/photo-port/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/kylieogg/photo-port" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Repository</button>
                             </a>
                         </div>
@@ -113,10 +113,10 @@ const Projects = () => {
                             React JS Application
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://intelligent-mandarine-12379.herokuapp.com/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/joshgreiff/awake" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Repository</button>
                             </a>
                         </div>
