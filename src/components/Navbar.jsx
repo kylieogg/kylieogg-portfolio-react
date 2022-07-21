@@ -74,25 +74,25 @@ const Navbar = () => {
                 <ul>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                        href="/">
+                        href="https://www.linkedin.com/in/kylie-ogg-921a2b22a/" target="_blank">
                            LinkedIn <FaLinkedin size={30} />
                         </a>
                     </li>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                        href="/">
+                        href="https://github.com/kylieogg" target="_blank">
                            Github <FaGithub size={30} />
                         </a>
                     </li>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#f97316]'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                        href="/">
+                        href="mailto:kylieogg1@gmail.com" target="_blank">
                            Email <HiOutlineMail size={30} />
                         </a>
                     </li>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                        href="/">
+                        href="https://docs.google.com/document/d/178nuLLRqqb4KgYjBrM0R3PXVr32CaW5O4YrK9vga8Xw/edit?usp=sharing" target="_blank">
                            Resume <BsFillPersonLinesFill size={30} />
                         </a>
                     </li>
