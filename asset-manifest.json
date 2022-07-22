@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kylieogg-portfolio-react/static/css/main.3b2dcee7.css",
+    "main.js": "/kylieogg-portfolio-react/static/js/main.650e0765.js",
+    "static/media/peruse.png": "/kylieogg-portfolio-react/static/media/peruse.116655479d5384aa2b0b.png",
+    "static/media/photo-port.png": "/kylieogg-portfolio-react/static/media/photo-port.62b3d9d8224837a97638.png",
+    "static/media/run-buddy-image.png": "/kylieogg-portfolio-react/static/media/run-buddy-image.6a734e182e251df145a6.png",
+    "static/media/awake.png": "/kylieogg-portfolio-react/static/media/awake.6e9035c240e57037a6e3.png",
+    "static/media/React.png": "/kylieogg-portfolio-react/static/media/React.b1b067bfe86e9c312c84.png",
+    "static/media/password-generator.png": "/kylieogg-portfolio-react/static/media/password-generator.ba84d4ab6717b7496d50.png",
+    "static/media/CSS.png": "/kylieogg-portfolio-react/static/media/CSS.00c443a767dad51b90ae.png",
+    "static/media/logo.png": "/kylieogg-portfolio-react/static/media/logo.c6cb95b05b0c06caa747.png",
+    "static/media/Github.png": "/kylieogg-portfolio-react/static/media/Github.4414afce5155e0ebf259.png",
+    "static/media/Tailwind.png": "/kylieogg-portfolio-react/static/media/Tailwind.16da31b6a6b06da1dc24.png",
+    "static/media/Javascript.png": "/kylieogg-portfolio-react/static/media/Javascript.972bf9d571c047b4be65.png",
+    "static/media/HTML.png": "/kylieogg-portfolio-react/static/media/HTML.303dc8a2778cafdbbb14.png",
+    "index.html": "/kylieogg-portfolio-react/index.html",
+    "main.3b2dcee7.css.map": "/kylieogg-portfolio-react/static/css/main.3b2dcee7.css.map",
+    "main.650e0765.js.map": "/kylieogg-portfolio-react/static/js/main.650e0765.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b2dcee7.css",
+    "static/js/main.650e0765.js"
+  ]
+}
